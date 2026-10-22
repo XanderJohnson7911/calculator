@@ -8,7 +8,10 @@ Functionality
 It will be able to add, subtract, multiply and divide two number and display the result
 
 Running it
-From Week 3: python3 calculator.py
-Enter the first number, followed by an operator (+,-,*,/), then a second number
+Make sure you are in ~/h-drive/DevOps/calculator/
+Run: python3 calculator.py
+
+When prompted:
+Enter the first number, then an operator (+,-,*,/), then a second number
 The program will then print 
 "Result : " then the answer
