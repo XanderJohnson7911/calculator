@@ -8,8 +8,8 @@ Functionality
 It will be able to add, subtract, multiply and divide two number and display the result
 
 Running it
-Make sure you are in ~/h-drive/DevOps/calculator/
-Run: python3 calculator.py
+Make sure you have python3 installed
+Run : ~/h-drive/DevOps/calculator/run.sh
 
 When prompted:
 Enter the first number, then an operator (+,-,*,/), then a second number
