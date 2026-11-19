@@ -19,3 +19,6 @@ def test_add_negative():
 	result = add(a, b)
 	# ASSERT
 	assert result == -5
+
+def test_circleArea():
+	assert CircleArea(-4) =="Error"
