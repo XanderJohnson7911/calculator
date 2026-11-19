@@ -10,7 +10,7 @@ def subtract(a, b):
 def multiply(a, b):
 	return a*b
 
-def divde(a, b):
+def divide(a, b):
 	return a/b
 
 def main():
@@ -24,10 +24,8 @@ def main():
 			print("Result : ", subtract(a, b))
 		elif op=="*":
 			print("Result : ", multiply(a, b))
-		elif op=="/" and b==0:
-			print("Error, cannot divide by 0")
 		elif op=="/":
-			print("Result : ", divde(a, b))
+			print("Result : ", divide(a, b))
 		else:
 			print("Unknown Operator : ", op)
 
